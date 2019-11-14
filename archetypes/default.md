@@ -1,6 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description: ""
 date: {{ .Date }}
-draft: true
+update_date: ""
+featured_image: "/posts/{{ .Name }}"
+tags: []
+categories: []
+draft: false
 ---
 
