@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trooper on Cat Arsenal</title>
+    <link>http://kiraproject.net/catarsenal/tags/trooper/</link>
+    <description>Recent content in Trooper on Cat Arsenal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2016 10:44:51 -0500</lastBuildDate>
+    
+	<atom:link href="http://kiraproject.net/catarsenal/tags/trooper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Force Awakens Trooper Blaster</title>
+      <link>http://kiraproject.net/catarsenal/posts/force-awakens-trooper-blaster/</link>
+      <pubDate>Fri, 15 Jan 2016 10:44:51 -0500</pubDate>
+      
+      <guid>http://kiraproject.net/catarsenal/posts/force-awakens-trooper-blaster/</guid>
+      <description>We got this awesome Storm trooper Nerf gun, and after looking at Bill Doran’s video thought I would give it a try.</description>
+    </item>
+    
+  </channel>
+</rss>
